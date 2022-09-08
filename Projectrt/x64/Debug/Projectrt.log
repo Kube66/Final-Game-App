@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(86,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(167,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(167,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(170,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(170,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(173,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(173,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(176,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(176,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(179,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(179,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(185,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(185,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(188,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(188,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(191,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(191,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(267,7): warning C4101: 'G': unreferenced local variable
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(372,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(372,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(373,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(373,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(396,17): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(402,17): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(440,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(445,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(461,74): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(462,74): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(467,75): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(468,75): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(473,75): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(474,75): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(479,75): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(480,75): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(501,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(502,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\rthum\source\repos\Projectrt\Projectrt\main.cpp(332): warning C4715: 'endGameLoop': not all control paths return a value
+  Projectrt.vcxproj -> C:\Users\rthum\source\repos\Projectrt\x64\Debug\Projectrt.exe
